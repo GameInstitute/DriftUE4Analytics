@@ -3,22 +3,22 @@
 	"Version": 1,
 	"VersionName": "0.1",
 	"FriendlyName": "DriftAnalytics",
-	"Description": "",
-	"Category": "Other",
-	"CreatedBy": "",
+	"Description": "Drift Analytics Provider",
+	"Category": "Drift",
+	"CreatedBy": "Directive Games Limited",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
+	"EnabledByDefault": false,
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"Installed": false,
 	"Modules": [
 		{
 			"Name": "DriftAnalytics",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
-	],
-	"EnabledByDefault": false,
-	"CanContainContent": false,
-	"IsBetaVersion": true,
-	"Installed": false
+	]
 }
